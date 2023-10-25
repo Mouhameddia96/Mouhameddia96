@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there! 👋 I'm Mouhamed Dia
+👨‍💻 Data Analytics/Science| 🌍 based in NYC
 
-<!--
-**Mouhameddia96/Mouhameddia96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Education: Hunter College
 
-Here are some ideas to get you started:
+⚡ Fun fact: I love Soccer, Travelling, and Food
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+I have experience in a wide range of technologies, including:
+
+ SQL, C++, Python, Data Analysis, BigQuery, Microsoft Excel, Google Sheets, Tableau, Rstudio
+
+Connect with me
+You can find me on GitHub and LinkedIn:
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/Mouhameddia96)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhamed-dia/)
+
+
